@@ -18,7 +18,9 @@ MarkDown是一种超文本语言，今天我第一次学习了它
 
 ![](https://qgt-style.oss-cn-hangzhou.aliyuncs.com/newcoursep4/g1/g1-2-2/tenor.gif)
 
-**终端命令行基本操作**
+
+
+### **终端命令行基本操作**
 
 查看当前目录下的文件：
 
@@ -44,7 +46,7 @@ MarkDown是一种超文本语言，今天我第一次学习了它
 
 ```git clone 仓库地址```
 
-**git提交三部曲**
+### **git提交三部曲**
 
 1. git add   ```git add -A```
 1. git commit    ```git commit -m " 本次提交的修改备注"```
